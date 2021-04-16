@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1887a4ff-4702-49d3-b012-dc84bae9b56d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/delete_movie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_movie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_create.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/test_delete.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\movie-app" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,7 +69,7 @@
       <workItem from="1618529194359" duration="590000" />
       <workItem from="1618532048430" duration="5151000" />
       <workItem from="1618561745091" duration="348000" />
-      <workItem from="1618562129087" duration="7398000" />
+      <workItem from="1618562129087" duration="10405000" />
     </task>
     <servers />
   </component>
@@ -86,6 +93,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="774" y="159" key="SettingsEditor/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618566011790" />
+    <state x="667" y="122" width="585" height="795" key="find.popup" timestamp="1618570630185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="122" width="585" height="795" key="find.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618570630185" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1618563496890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
