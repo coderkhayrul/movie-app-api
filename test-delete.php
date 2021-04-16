@@ -1,0 +1,1 @@
+<form action="delete_movie.php" method="post">	<input type="text" name="id" value="1"/>	<input type="submit"  value="Submit"/>	</form>
