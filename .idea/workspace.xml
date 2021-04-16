@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1887a4ff-4702-49d3-b012-dc84bae9b56d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/get_movie_by_id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_movie_by_name.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_all_povies.php" beforeDir="false" afterPath="$PROJECT_DIR$/get_all_movies.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,9 @@
       <option name="presentableId" value="Default" />
       <updated>1618529187626</updated>
       <workItem from="1618529194359" duration="590000" />
-      <workItem from="1618532048430" duration="3827000" />
+      <workItem from="1618532048430" duration="5151000" />
+      <workItem from="1618561745091" duration="348000" />
+      <workItem from="1618562129087" duration="732000" />
     </task>
     <servers />
   </component>
@@ -76,15 +79,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1618535308353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618535308353" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618534149699">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618536152310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618534149699" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1618536152310" />
   </component>
 </project>
