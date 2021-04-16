@@ -1,0 +1,1 @@
+<form action="update_movie.php" method="post">	<input type="text" name="id" value="1"/>	<lable>Story Line</lable>	<input type="text" name="storyline" value="working storyline"/>	<lable>Box Office</lable>	<input type="text" name="box_office" value="5"/>	<lable>Stars</lable>	<input type="text" name="stars" value="8"/>		<input type="submit" value="submit"/></form>
